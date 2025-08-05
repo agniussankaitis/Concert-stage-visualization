@@ -1,1 +1,1 @@
-# Concert-stage-visualization
+In the final thesis, a 3D modeling project was developed – a concert stage visualization for indoor venues. The project involved analyzing real client requirements, competitor activities, lighting technologies, and digital design solutions. This topic is relevant due to the growing demand for digital spatial visualizations in the event industry, where such tools help pre-plan both technical and aesthetic solutions.
